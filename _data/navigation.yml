@@ -16,4 +16,13 @@ pages:
         url: /typescript/
   - title: Guides & Concepts
   - title: Examples
+    children:
+      - title: "Basic"
+        url: /examples/basic
+      - title: "Multi Page"
+        url: /examples/multi-page
+      - title: "Suspense"
+        url: /examples/suspense
+      - title: "Vue 2.x"
+        url: /examples/vue-2-x
   - title: API Reference
