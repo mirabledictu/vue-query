@@ -1,4 +1,4 @@
-You can install React Query with [NPM](https://www.npmjs.com/) or [Yarn](https://yarnpkg.com/)
+You can install Vue Query with [NPM](https://www.npmjs.com/) or [Yarn](https://yarnpkg.com/)
 
 ### NPM
 
